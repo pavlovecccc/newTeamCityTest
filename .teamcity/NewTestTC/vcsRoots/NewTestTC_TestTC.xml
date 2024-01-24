@@ -8,7 +8,7 @@
   <param name="ignoreKnownHosts" value="true" />
   <param name="secure:password" value="credentialsJSON:b1e70ad1-0b45-441e-ae12-4cc6712992f9" />
   <param name="submoduleCheckout" value="CHECKOUT" />
-  <param name="teamcity:branchSpec"><![CDATA[+:refs/(prs/*)/merge
+  <param name="teamcity:branchSpec"><![CDATA[+:refs/merge
 +:refs/main/heads/feature/Dev/bugfix*]]></param>
   <param name="url" value="https://github.com/pavlovecccc/newTeamCityTest" />
   <param name="useAlternates" value="USE_MIRRORS" />
