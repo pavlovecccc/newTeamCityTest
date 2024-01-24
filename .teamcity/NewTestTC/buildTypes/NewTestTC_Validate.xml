@@ -13,15 +13,6 @@
     </vcs-settings>
     <requirements />
     <build-triggers />
-    <build-extensions>
-      <extension id="BUILD_EXT_1" type="VcsLabeling">
-        <parameters>
-          <param name="branchFilter" value="+:" />
-          <param name="labelingPattern" value="build-%system.build.number%" />
-          <param name="vcsRootId" value="NewTestTC_TestTC" />
-        </parameters>
-      </extension>
-    </build-extensions>
     <cleanup />
   </settings>
 </build-type>
